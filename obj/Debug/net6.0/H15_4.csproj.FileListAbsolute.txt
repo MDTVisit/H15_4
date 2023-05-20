@@ -1,0 +1,15 @@
+C:\Users\jaija\Documents\GitHub\H15_4\obj\Debug\net6.0\H15_4.csproj.AssemblyReference.cache
+C:\Users\jaija\Documents\GitHub\H15_4\obj\Debug\net6.0\H15_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaija\Documents\GitHub\H15_4\obj\Debug\net6.0\H15_4.AssemblyInfoInputs.cache
+C:\Users\jaija\Documents\GitHub\H15_4\obj\Debug\net6.0\H15_4.AssemblyInfo.cs
+C:\Users\jaija\Documents\GitHub\H15_4\obj\Debug\net6.0\H15_4.csproj.CoreCompileInputs.cache
+C:\Users\jaija\Documents\GitHub\H15_4\bin\Debug\net6.0\H15_4.exe
+C:\Users\jaija\Documents\GitHub\H15_4\bin\Debug\net6.0\H15_4.deps.json
+C:\Users\jaija\Documents\GitHub\H15_4\bin\Debug\net6.0\H15_4.runtimeconfig.json
+C:\Users\jaija\Documents\GitHub\H15_4\bin\Debug\net6.0\H15_4.dll
+C:\Users\jaija\Documents\GitHub\H15_4\bin\Debug\net6.0\H15_4.pdb
+C:\Users\jaija\Documents\GitHub\H15_4\obj\Debug\net6.0\H15_4.dll
+C:\Users\jaija\Documents\GitHub\H15_4\obj\Debug\net6.0\refint\H15_4.dll
+C:\Users\jaija\Documents\GitHub\H15_4\obj\Debug\net6.0\H15_4.pdb
+C:\Users\jaija\Documents\GitHub\H15_4\obj\Debug\net6.0\H15_4.genruntimeconfig.cache
+C:\Users\jaija\Documents\GitHub\H15_4\obj\Debug\net6.0\ref\H15_4.dll
